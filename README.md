@@ -1,7 +1,7 @@
 # mystery-dog-box
 
-I had an idea to establish startup business related to dog gifts.
-So I learned how to do landing page using HTML,CSS and JS.
+I had an idea to establish startup business related to dog toys,treats and gifts.
+So I learned how to develop landing page using HTML,CSS and JS.
 
 Mystery Dog Box is a monhtly delivery of toys, treats, and mystery gift for dogs. 
 This is my first project from scratch. 
