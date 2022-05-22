@@ -5,6 +5,7 @@ So I learned how to develop landing page using HTML,CSS and JS.
 
 Mystery Dog Box is a monhtly delivery of toys, treats, and mystery gift for dogs. 
 This is my first project from scratch. 
+I used grid and flexbox.
 
 
 Used:
